@@ -13,5 +13,4 @@ was created to display the following:
 - A bubble chart that displays each sample.
 - The sample metadata, i.e., an individual's demographic information.
 
-## [Follow this link to view the Deployment Page!](http://127.0.0.1:5500/04-GIT_HW/14_JavaScript_Challenge/Code/index.html)
 
